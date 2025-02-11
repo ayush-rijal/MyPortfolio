@@ -7,12 +7,12 @@ export function FloatingDockDemo() {
     {
       title: 'GitHub',
       icon: <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />,
-      href: 'https://github.com/questercreate',
+      href: 'https://github.com/ayush-rijal',
     },
     {
       title: 'LinkdIn',
       icon: <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />,
-      href: 'https://www.linkedin.com/in/arun-joshi-45b36a293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+      href: 'https://www.linkedin.com/in/ayush-rijal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
     },
   ];
   return (
