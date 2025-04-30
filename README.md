@@ -1,5 +1,5 @@
 # Full-Stack Developer Portfolio Website
-
+ushrijalportfolio.vercel.app
 Welcome to the Full-Stack Developer Portfolio Website repository! This project showcases the work, skills, and experience of a full-stack developer. It is a responsive and interactive web application that acts as a personal portfolio to highlight projects, skills, and other professional details.
 
 ## Table of Contents
@@ -49,8 +49,8 @@ Welcome to the Full-Stack Developer Portfolio Website repository! This project s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Atailung/Arun-Joshi.
-   cd portfolio
+   git clone https://github.com/ayush-rijal/MyPortfolio.
+   cd MyPortfolio
    ```
 
 2. Install dependencies:
